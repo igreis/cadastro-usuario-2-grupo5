@@ -1,0 +1,25 @@
+footer {
+  background: linear-gradient(to top, #6ab7f5, #fff)
+  
+}
+
+footer ul {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 5rem;
+  list-style-type: none;
+  font-size: x-large;
+}
+
+footer a {
+  color: rgb(2, 0, 0);
+  text-decoration: none;
+}
+
+footer p.copyright {
+  padding: 3rem 0;
+  color: #ffffffcc;
+  text-align: center;
+  font-size: larger;
+}
+

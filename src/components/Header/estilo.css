@@ -1,0 +1,20 @@
+.outra-tela{
+    background-color: aquamarine;
+    color: red;
+    left: 100px;
+}
+
+.name-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .name {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+  }
+  
