@@ -119,6 +119,7 @@ const minhaFuncao = (userData) => {
 
   h1{
     font-size: 25px;
+    text-align: center;
   }
 
   .container{
@@ -132,11 +133,12 @@ const minhaFuncao = (userData) => {
       </head>
       <body>
       <div class="container">
-      <h1>
-        Confirme seus dados!
-      </h1>
+      
       </div>
         <section>
+        <h1>
+        Confirme seus dados!
+      </h1>
           <p><b>Email</b>: ${userData.email}</p>
           <p><b>Nome</b>: ${userData.nome}</p>
           <p><b>Número</b>: ${userData.numero}</p>
